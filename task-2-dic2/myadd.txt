@@ -1,0 +1,6 @@
+#b
+Trans:n. 字母B0
+#a.m.
+Trans:n. 上午0
+#a
+Trans:art. 一;字母A1
